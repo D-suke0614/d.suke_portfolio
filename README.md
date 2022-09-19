@@ -19,6 +19,22 @@ $ yarn generate
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
+## branch
+
+`deploy`
+
+デプロイ用のブランチ
+
+`develop`
+
+開発用のブランチ
+開発におけるmainブランチの役割を担う
+作業ブランチは基本的にここから切ってここにマージすることとする
+
+`other`
+
+その他必要に応じて'fix'などを用いることもある
+
 ## Special Directories
 
 You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
