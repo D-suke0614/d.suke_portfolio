@@ -21,15 +21,14 @@ For detailed explanation on how things work, check out the [documentation](https
 
 ## branch
 
+`main`
+
+開発時はここからブランチを切って開発をおこなう
+このブランチが最新で正しいものとする
+
 `deploy`
 
 デプロイ用のブランチ
-
-`develop`
-
-開発用のブランチ
-開発におけるmainブランチの役割を担う
-作業ブランチは基本的にここから切ってここにマージすることとする
 
 `other`
 
